@@ -78,28 +78,15 @@ p{
     border: 0;
     background-color: white;
 }
-.shopping-cart-section{
-    height: 600px;
-
-}
-.help-section img{
-    width: 75px;
-    margin-right: 20px;
-}
-.help-section{
+.shopping-cart-info{
+    border: 0;
     border-radius: 10px;
 }
-.help-section-border{
-    width: 500px;
-}
 
-.shopping-cart img{
-    width: 600px;
-    height: 350px;
-}
 .penguin-submit-section{
     background-color: #fffaf9;
     border-radius: 20px;
     
 }
 
+   
